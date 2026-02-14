@@ -1,0 +1,38 @@
+{
+    "class_to_id": {
+        "Audi": 0, 
+        "BMW": 1, 
+        "Chevrolet": 2, 
+        "Ford": 3, 
+        "Honda": 4, 
+        "Hyundai": 5,  
+        "Jeep": 6, 
+        "Kia": 7, 
+        "Lexus": 8, 
+        "Mercedes-Benz": 9,
+        "MINI": 10, 
+        "Nissan": 11, 
+        "Subaru": 12, 
+        "Tesla": 13,
+        "Toyota": 14,
+        "Volkswagen": 15  
+    },
+    "id_to_class": {
+        "0": "Audi",
+        "1": "BMW",
+        "2": "Chevrolet",
+        "3": "Ford",
+        "4": "Honda",
+        "5": "Hyundai",
+        "6": "Jeep",
+        "7": "Kia",
+        "8": "Lexus",
+        "9": "Mercedes-Benz",
+        "10": "MINI",
+        "11": "Nissan",
+        "12": "Subaru",
+        "13": "Tesla",
+        "14": "Toyota",
+        "15": "Volkswagen"
+    }
+}
